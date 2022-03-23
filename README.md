@@ -19,4 +19,10 @@ Add some images and dummy logo and try to use most of CSS properties in HOME pag
 ### Screenshots
 ---
 
-![](https://github.com/Shanbhagsagar/Covid19_App/blob/main/C19%20Screenshot/1.png)
+![](https://github.com/Shanbhagsagar/sagar_assessment1/blob/main/images/1.png)
+
+![](https://github.com/Shanbhagsagar/sagar_assessment1/blob/main/images/2.png)
+
+![](https://github.com/Shanbhagsagar/sagar_assessment1/blob/main/images/3.png)
+
+![](https://github.com/Shanbhagsagar/sagar_assessment1/blob/main/images/4.png)
