@@ -6,15 +6,15 @@
 
 - A.	Basic Registration Page(with all possible validations)
 
-         1.First Name*
+         1.First Name
          
-         2.Last Name*
+         2.Last Name
+                 
+         3.Email Id
          
-         3.Email Id*
+         4.Mobile Number
          
-         4.Mobile Number*
-         
-	 5.Address (After State selection dropdown with district/cities should appear )*
+	 5.Address (After State selection dropdown with district/cities should appear )
 	
 	 6.Captcha before submitting this page.(IF POSSIBLE)
 
