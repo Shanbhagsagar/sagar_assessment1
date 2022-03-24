@@ -5,7 +5,6 @@
 ### Requirement of the module
 
 - A.	Basic Registration Page(with all possible validations)
-
          1.First Name
          2.Last Name
          3.Email Id
